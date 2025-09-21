@@ -26,13 +26,13 @@
 ## 🌟 About Me
 <div align="center">
 
-**🚀 Full Stack Developer from Morocco**  
+# 🚀 Full Stack Developer from Morocco  
 **🎨 Passionate about creating beautiful web experiences**  
 **💡 Always learning, always building**
 
 <br/>
 
-\`\`\`go
+```go
 package main
 
 import (
@@ -47,18 +47,17 @@ func main() {
         "role":     "Full Stack Developer",
         "passion":  "Building amazing web experiences",
     }
-    
+
     fmt.Printf("Hello! I'm %s 👋\n", developer["name"])
     fmt.Println("🌟 Let's create something incredible together!")
-    
+
     for {
         fmt.Println("💡 Always learning, always creating...")
         fmt.Println("🌸 Turning ideas into reality, one commit at a time")
         time.Sleep(24 * time.Hour)
     }
 }
-\`\`\`
-
+```
 </div>
 
 <div align="center">

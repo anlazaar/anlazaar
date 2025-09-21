@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Added anime-style header with Japanese aesthetics and vibrant colors -->
 # 🌸 Anass Lazaar 🌸
-### *コーダー & ASCII アーティスト* *(Coder & ASCII Artist)*
+### *フルスタック開発者* *(Full Stack Developer)*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%E2%9C%A8+Go+Developer+%F0%9F%90%B9;%F0%9F%8E%A8+ASCII+Art+Master;%F0%9F%8C%B8+Creative+Problem+Solver;%F0%9F%87%B2%F0%9F%87%A6+From+Morocco+%E2%9C%A8;%F0%9F%9B%A0%EF%B8%8F+Building+CLI+Magic;%F0%9F%8C%90+Web+Experiences" alt="Animated Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%E2%9C%A8+Full+Stack+Developer+%F0%9F%9A%80;%F0%9F%8E%A8+Creative+Problem+Solver;%F0%9F%8C%B8+Building+Amazing+Experiences;%F0%9F%87%B2%F0%9F%87%A6+From+Morocco+%E2%9C%A8;%F0%9F%9B%A0%EF%B8%8F+Frontend+%26+Backend+Magic;%F0%9F%8C%90+Web+%26+Mobile+Apps" alt="Animated Typing" />
 
 <br/>
 
-<!-- Enhanced badges with anime-inspired colors and better layout -->
 <p align="center">
   <a href="https://aeneas-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4" alt="Portfolio"/>
@@ -25,32 +23,6 @@
 
 ---
 
-<!-- Anime-style ASCII art corner with Japanese elements -->
-## 🎭 ASCII アートコーナー *(ASCII Art Corner)*
-
-<div align="center">
-
-\`\`\`
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  🌸                                                                              🌸  ║
-║     ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗                  ║
-║     ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝                  ║
-║     ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗                    ║
-║     ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝                    ║
-║     ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗                  ║
-║      ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝                  ║
-║                                                                                      ║
-║                    🎨 私のクリエイティブコーディングスペース 🎨                        ║
-║                      *(My Creative Coding Space)*                                   ║
-║  🌸                                                                              🌸  ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-\`\`\`
-
-</div>
-
----
-
-<!-- Anime-style About Me section with enhanced Go code and Japanese elements -->
 ## 🌟 私について *(About Me)*
 
 \`\`\`go
@@ -76,9 +48,9 @@ func main() {
     me := 開発者{
         Name:         "Anass Lazaar",
         Location:     "Oujda, Morocco 🇲🇦",
-        Languages:    []string{"Go", "JavaScript", "Python", "Shell"},
-        Interests:    []string{"ASCII Art", "Web Dev", "Creative Coding", "Open Source"},
-        CurrentFocus: "Building beautiful CLI tools & web experiences ✨",
+        Languages:    []string{"Go", "JavaScript", "Python", "TypeScript", "React", "Node.js"},
+        Interests:    []string{"Full Stack Development", "UI/UX Design", "Creative Coding", "Open Source"},
+        CurrentFocus: "Building beautiful web applications & user experiences ✨",
         PowerLevel:   9001, // It's over 9000! 🔥
     }
     
@@ -88,7 +60,7 @@ func main() {
     
     for {
         fmt.Println("💡 Always learning, always creating...")
-        fmt.Println("🌸 Turning code into art, one line at a time")
+        fmt.Println("🌸 Turning ideas into reality, one commit at a time")
         time.Sleep(24 * time.Hour)
     }
 }
@@ -96,25 +68,22 @@ func main() {
 
 <div align="center">
 
-<!-- Anime-style tech stack with enhanced visual appeal -->
 ## 🛠️ 技術スタック *(Tech Stack)*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,python,html,css,git,github,vscode,linux,bash&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,python,html,css,tailwind,git,github,vscode,linux&theme=dark&perline=7" />
 </p>
 
-<!-- Added anime-style power level indicators -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-Power_Level_9000+-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/ASCII_Art-Master_Rank-4ECDC4?style=for-the-badge&logoColor=white&labelColor=FFE66D"/>
-  <img src="https://img.shields.io/badge/Creativity-∞-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
+  <img src="https://img.shields.io/badge/Frontend-Power_Level_9000+-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
+  <img src="https://img.shields.io/badge/Backend-Master_Rank-4ECDC4?style=for-the-badge&logoColor=white&labelColor=FFE66D"/>
+  <img src="https://img.shields.io/badge/Full_Stack-∞-FFE66D?style=for-the-badge&logoColor=black&labelColor=FF6B6B"/>
 </p>
 
 </div>
 
 ---
 
-<!-- Enhanced featured projects with anime-style presentation -->
 ## 🎯 注目プロジェクト *(Featured Projects)*
 
 <div align="center">
@@ -124,14 +93,16 @@ func main() {
 <td width="50%" align="center">
 
 ### 🔷 Diamond Pattern Generator
-*美しいASCIIダイヤモンドパターンを作成するGoプログラム*
-<br>*A Go program that creates beautiful ASCII diamond patterns*
+*美しいパターンを作成するGoプログラム*
+<br>*A Go program that creates beautiful diamond patterns*
 
-\`\`\`
-    ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
-  ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
-◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
-\`\`\`
+<br>
+
+**Tech Stack:** Go, CLI, ASCII Art
+<br>
+**Features:** Pattern Generation, Customizable Sizes
+
+<br>
 
 <a href="https://github.com/anlazaar/diamond-pattern-generator">
   <img src="https://img.shields.io/badge/🔍_VIEW_CODE-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
@@ -141,19 +112,16 @@ func main() {
 <td width="50%" align="center">
 
 ### 🍪 ASCII Art Web
-*ASCIIアート作成のためのインタラクティブWebアプリケーション*
-<br>*Interactive web application for ASCII art creation*
+*インタラクティブWebアプリケーション*
+<br>*Interactive web application for creative art*
 
-\`\`\`
-┌─────────────────────────────────────┐
-│  ██╗    ██╗███████╗██████╗          │
-│  ██║    ██║██╔════╝██╔══██╗         │
-│  ██║ █╗ ██║█████╗  ██████╔╝         │
-│  ██║███╗██║██╔══╝  ██╔══██╗         │
-│  ╚███╔███╔╝███████╗██████╔╝         │
-│   ╚══╝╚══╝ ╚══════╝╚═════╝          │
-└─────────────────────────────────────┘
-\`\`\`
+<br>
+
+**Tech Stack:** Web Technologies, Interactive UI
+<br>
+**Features:** Real-time Creation, User-friendly Interface
+
+<br>
 
 <a href="https://github.com/anlazaar/ascii-art-web">
   <img src="https://img.shields.io/badge/🔍_VIEW_CODE-4ECDC4?style=for-the-badge&logoColor=white&labelColor=FF6B6B"/>
@@ -167,7 +135,6 @@ func main() {
 
 ---
 
-<!-- Added anime-style GitHub stats section -->
 ## 📊 GitHub統計 *(GitHub Stats)*
 
 <div align="center">
@@ -179,7 +146,6 @@ func main() {
 
 ---
 
-<!-- Added anime-style activity section -->
 ## 🐍 貢献の蛇 *(Contribution Snake)*
 
 <div align="center">
@@ -190,13 +156,12 @@ func main() {
 
 ---
 
-<!-- Enhanced footer with anime aesthetics -->
 ## 🌸 つながりましょう *(Let's Connect)*
 
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Always+coding%2C+always+creating+%E2%9C%A8;ASCII+art+is+my+passion+%F0%9F%8E%A8;Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Always+coding%2C+always+creating+%E2%9C%A8;Full+stack+is+my+passion+%F0%9F%9A%80;Let's+build+something+amazing+%F0%9F%8C%9F" alt="Footer Animation" />
 </p>
 
 <p align="center">
@@ -218,7 +183,7 @@ func main() {
 </p>
 
 <p align="center">
-  <i>✨ "Code is poetry, ASCII is art" ✨</i>
+  <i>✨ "Code is art, creativity is limitless" ✨</i>
 </p>
 
 </div>

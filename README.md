@@ -24,6 +24,13 @@
 ---
 
 ## 🌟 About Me
+<div align="center">
+
+**🚀 Full Stack Developer from Morocco**  
+**🎨 Passionate about creating beautiful web experiences**  
+**💡 Always learning, always building**
+
+<br/>
 
 \`\`\`go
 package main
@@ -33,27 +40,16 @@ import (
     "time"
 )
 
-type Developer struct {
-    Name         string   `json:"name"`
-    Location     string   `json:"location"`
-    Languages    []string `json:"languages"`
-    Interests    []string `json:"interests"`
-    CurrentFocus string   `json:"current_focus"`
-    PowerLevel   int      `json:"power_level"`
-}
-
 func main() {
-    me := Developer{
-        Name:         "Anass Lazaar",
-        Location:     "Oujda, Morocco 🇲🇦",
-        Languages:    []string{"JavaScript", "TypeScript", "Go", "Python", "React", "Node.js"},
-        Interests:    []string{"Full Stack Development", "UI/UX Design", "Creative Coding", "Open Source"},
-        CurrentFocus: "Building beautiful web applications & user experiences ✨",
-        PowerLevel:   9001, // It's over 9000! 🔥
+    developer := map[string]interface{}{
+        "name":     "Anass Lazaar",
+        "location": "Oujda, Morocco 🇲🇦",
+        "role":     "Full Stack Developer",
+        "passion":  "Building amazing web experiences",
     }
     
-    fmt.Printf("Hello World! I'm %s 👋\n", me.Name)
-    fmt.Printf("Current focus: %s\n", me.CurrentFocus)
+    fmt.Printf("Hello! I'm %s 👋\n", developer["name"])
+    fmt.Println("🌟 Let's create something incredible together!")
     
     for {
         fmt.Println("💡 Always learning, always creating...")
@@ -62,6 +58,8 @@ func main() {
     }
 }
 \`\`\`
+
+</div>
 
 <div align="center">
 

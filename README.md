@@ -24,7 +24,7 @@
 ---
 
 ## 🌟 About Me
-<div align="center">
+<div>
 
 # 🚀 Full Stack Developer from Morocco  
 **🎨 Passionate about creating beautiful web experiences**  

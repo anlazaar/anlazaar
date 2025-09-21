@@ -3,7 +3,7 @@
 # 🎨 Anass Lazaar
 ### *Creative Developer & ASCII Artist*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Go+Developer+%F0%9F%90%B9;ASCII+Art+Enthusiast+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9C%A8;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%90%B9;ASCII+Art+Enthusiast+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9C%A8;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,8 @@
 
 ## 🌟 About Me
 
-\`\`\`go
+\`\`\`
+go
 package main
 
 import (

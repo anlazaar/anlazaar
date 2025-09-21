@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Anass Lazaar 🌸
+#  Anass Lazaar 
 ### *フルスタック開発者* *(Full Stack Developer)*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%E2%9C%A8+Full+Stack+Developer+%F0%9F%9A%80;%F0%9F%8E%A8+Creative+Problem+Solver;%F0%9F%8C%B8+Building+Amazing+Experiences;%F0%9F%87%B2%F0%9F%87%A6+From+Morocco+%E2%9C%A8;%F0%9F%9B%A0%EF%B8%8F+Frontend+%26+Backend+Magic;%F0%9F%8C%90+Web+%26+Mobile+Apps" alt="Animated Typing" />
@@ -99,7 +99,7 @@ func main() {
 
 ---
 
-## 🌸 Let's Connect
+##  Let's Connect
 
 <div align="center">
 

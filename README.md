@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 私について *(About Me)*
+## 🌟 About Me
 
 \`\`\`go
 package main
@@ -31,32 +31,29 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/anlazaar/creativity" // ✨ My creative package
 )
 
-type 開発者 struct { // Developer in Japanese
-    Name         string   `json:"name" anime:"protagonist"`
-    Location     string   `json:"location" anime:"setting"`
-    Languages    []string `json:"languages" anime:"skills"`
-    Interests    []string `json:"interests" anime:"passions"`
-    CurrentFocus string   `json:"current_focus" anime:"quest"`
-    PowerLevel   int      `json:"power_level" anime:"9000+"`
+type Developer struct {
+    Name         string   `json:"name"`
+    Location     string   `json:"location"`
+    Languages    []string `json:"languages"`
+    Interests    []string `json:"interests"`
+    CurrentFocus string   `json:"current_focus"`
+    PowerLevel   int      `json:"power_level"`
 }
 
 func main() {
-    // ✨ Character initialization
-    me := 開発者{
+    me := Developer{
         Name:         "Anass Lazaar",
         Location:     "Oujda, Morocco 🇲🇦",
-        Languages:    []string{"Go", "JavaScript", "Python", "TypeScript", "React", "Node.js"},
+        Languages:    []string{"JavaScript", "TypeScript", "Go", "Python", "React", "Node.js"},
         Interests:    []string{"Full Stack Development", "UI/UX Design", "Creative Coding", "Open Source"},
         CurrentFocus: "Building beautiful web applications & user experiences ✨",
         PowerLevel:   9001, // It's over 9000! 🔥
     }
     
-    // 🌸 Daily routine
-    fmt.Printf("こんにちは世界！I'm %s 👋\n", me.Name)
-    fmt.Printf("Current quest: %s\n", me.CurrentFocus)
+    fmt.Printf("Hello World! I'm %s 👋\n", me.Name)
+    fmt.Printf("Current focus: %s\n", me.CurrentFocus)
     
     for {
         fmt.Println("💡 Always learning, always creating...")
@@ -84,57 +81,6 @@ func main() {
 
 ---
 
-## 🎯 注目プロジェクト *(Featured Projects)*
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🔷 Diamond Pattern Generator
-*美しいパターンを作成するGoプログラム*
-<br>*A Go program that creates beautiful diamond patterns*
-
-<br>
-
-**Tech Stack:** Go, CLI, ASCII Art
-<br>
-**Features:** Pattern Generation, Customizable Sizes
-
-<br>
-
-<a href="https://github.com/anlazaar/diamond-pattern-generator">
-  <img src="https://img.shields.io/badge/🔍_VIEW_CODE-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### 🍪 ASCII Art Web
-*インタラクティブWebアプリケーション*
-<br>*Interactive web application for creative art*
-
-<br>
-
-**Tech Stack:** Web Technologies, Interactive UI
-<br>
-**Features:** Real-time Creation, User-friendly Interface
-
-<br>
-
-<a href="https://github.com/anlazaar/ascii-art-web">
-  <img src="https://img.shields.io/badge/🔍_VIEW_CODE-4ECDC4?style=for-the-badge&logoColor=white&labelColor=FF6B6B"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub統計 *(GitHub Stats)*
 
 <div align="center">
@@ -146,17 +92,17 @@ func main() {
 
 ---
 
-## 🐍 貢献の蛇 *(Contribution Snake)*
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/anlazaar/anlazaar/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🌸 つながりましょう *(Let's Connect)*
+## 🌸 Let's Connect
 
 <div align="center">
 

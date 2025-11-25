@@ -108,13 +108,13 @@ func main() {
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="anasslazaar9@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/anlazaar/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logoColor=white&labelColor=FFE66D"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/Aeneas_Studio">
     <img src="https://img.shields.io/badge/🐦_Twitter-FFE66D?style=for-the-badge&logoColor=black&labelColor=FF6B6B"/>
   </a>
 </p>

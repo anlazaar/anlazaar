@@ -65,7 +65,8 @@ func main() {
 ## 🛠️ 技術スタック *(Tech Stack)*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,nodejs,java,spring,go,rust,python,html,css,tailwind,git,github,vscode,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,nodejs,java,spring,go,rust,c,html,css,tailwind,git,github,vscode,linux&theme=dark&perline=7" />
+
 </p>
 
 <p align="center">

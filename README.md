@@ -1,132 +1,106 @@
 <div align="center">
 
-<!-- Animated Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,3b82f6,a855f7&height=250&section=header&text=Anass%20Lazaar&fontSize=65&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=⚡+Enterprise+Backends+with+Java+%26+Spring+Boot;⚛️+Modern+Frontends+with+Next.js+%26+Angular;🌍+Proudly+Full+Stack+Developer+from+Morocco;🚀+Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://aeneas-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
-</a>
-<a href="https://aeneas.studio">
-  <img src="https://img.shields.io/badge/Studio-0f172a?style=for-the-badge&logo=react&logoColor=A855F7" alt="Studio"/>
-</a>
-<a href="https://orcid.org/0009-0009-9043-496">
-  <img src="https://img.shields.io/badge/ORCID-0f172a?style=for-the-badge&logo=orcid&logoColor=A8C7FA" alt="ORCID"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## ✦ The Core Arsenal ✦
-*My primary weapons of choice for building production-ready, scalable applications.*
-
-<br/>
-
-<!-- Huge Focus Badges -->
-<a href="https://spring.io/">
-  <img src="https://img.shields.io/badge/Java_%26_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=1e293b" />
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://img.shields.io/badge/Next.js_%26_React-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1e293b" />
-</a>
-<a href="https://angular.io/">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1e293b" />
-</a>
+<!-- Futuristic/Aesthetic Header GIF -->
+<img src="https://i.pinimg.com/originals/bd/ca/65/bdca65f2a1b1df400037a50ae35b91b9.gif" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,255,255,0.5);" alt="Banner" />
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">⚙️ Backend Architecture</h3>
-      <p align="center">I specialize in architecting secure, high-performance RESTful APIs and microservices. Using <b>Java</b> and the power of <b>Spring Boot</b>, I build systems designed to handle heavy traffic, complex business logic, and enterprise-grade data management.</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" height="35" /> 
+  ANASS LAZAAR 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" height="35" />
+</h1>
+
+<h3> ✦ 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 ✦ </h3>
+
+<p align="center">
+  <kbd> <b>Java & Spring Boot</b> </kbd> ⬩ 
+  <kbd> <b>Next.js & Angular</b> </kbd> ⬩ 
+  <kbd> <b>Morocco 🇲🇦</b> </kbd>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://aeneas-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/anlazaar/"><img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/></a>
+  <a href="mailto:anasslazaar9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" alt="divider"/>
+
+</div>
+
+## 🌐 The Core Architecture
+
+I specialize in building end-to-end digital experiences. From highly scalable, secure backend systems to beautiful, interactive frontend applications.
+
+<table align="center" width="100%">
+  <tr align="center">
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" /><br/>
+      <b>Backend Engineering</b>
     </td>
-    <td align="center" width="50%">
-      <h3 align="center">🎨 Frontend Engineering</h3>
-      <p align="center">I don't just build APIs; I bring them to life. By leveraging <b>Next.js</b> for highly optimized, SSR web apps and <b>Angular</b> for structured enterprise dashboards, I create seamless, responsive, and pixel-perfect user experiences.</p>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" /><br/>
+      <b>Frontend Engineering</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      I design robust, enterprise-grade APIs and microservices. By leveraging the immense power of <b>Java</b> and <b>Spring Boot</b>, I ensure that the backbone of the application is fast, secure, and capable of handling massive scale.
+    </td>
+    <td>
+      A great API needs a great interface. I build fluid, SEO-optimized, and highly responsive web applications using the modern ecosystems of <b>Next.js</b> (React) and the structured power of <b>Angular</b>.
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" alt="divider"/>
 </div>
 
----
+## ⚙️ Technology Arsenal
 
 <div align="center">
 
-## 🛠️ Full Technology Stack
+| ⚡ Core Languages & Frameworks | 🎨 Web & Styling | 🛠️ Architecture & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,go&perline=5" /> | <img src="https://skillicons.dev/icons?i=nextjs,angular,react,tailwind,css&perline=5" /> | <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman&perline=5" /> |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,nextjs,angular,react,nodejs,go,rust,c,tailwind,docker,linux,git,github,vscode,postman&theme=dark&perline=9" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Backend_Engineering-Master_Rank-8b5cf6?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend_Development-Power_Level_9000+-38bdf8?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full_Stack-Limitless-0f172a?style=flat-square&logoColor=white"/>
+> 💡 *Currently deep-diving into Rust and Advanced System Design.*
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" alt="divider"/>
+</div>
+
+## 📈 Developer Metrics
+
+*Because public stats APIs frequently crash, here is a rock-solid, stable overview of my coding activity.*
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<!-- GitHub Trophies (Makes the profile look highly achieved) -->
-<img src="https://github-profile-trophy.vercel.app/?username=anlazaar&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-
-<br/><br/>
-
-<!-- Stats and Top Langs side-by-side with Radical Theme -->
+<!-- Using the highly stable streak-stats API instead of the buggy ones -->
 <a href="https://github.com/anlazaar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anlazaar&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="48%" />
-</a>
-<a href="https://github.com/anlazaar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlazaar&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=anlazaar&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="800">
-</picture>
+<a href="https://aeneas.studio">
+  <img src="https://img.shields.io/badge/Status-Always_Building_Something_Awesome-00e5ff?style=flat-square&logo=github&logoColor=white&color=0f172a" />
+</a>
+<a href="https://github.com/anlazaar">
+  <img src="https://komarev.com/ghpvc/?username=anlazaar&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Transparent footer text effect -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=Let's%20Build%20Something%20Incredible&fontSize=24&fontAlign=50&fontColor=38bdf8"/>
+<br/>
 
 <p align="center">
-  <a href="mailto:anasslazaar9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anlazaar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Aeneas_Studio">
-    <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
+  <i>"Writing code that makes a difference."</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anlazaar&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-</div>

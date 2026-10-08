@@ -99,28 +99,18 @@ I am currently based in **Morocco**, constructing systems designed to handle imm
 
 ---
 
-### 📦 Featured Engineering / Architecture
+### 📦 Featured Engineering & Stats
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/anlazaar/marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=marketplace&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7000FF&text_color=c9d1d9" alt="Marketplace" width="100%"/>
+      <a href="https://github.com/anlazaar">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7000FF&text_color=c9d1d9" alt="Top Languages" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/anlazaar/DEV.WAREHOUSE">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=DEV.WAREHOUSE&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7000FF&text_color=c9d1d9" alt="Dev.Warehouse" width="100%"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=ffffff&title_color=7000FF&text_color=333333">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="WakaTime Stats" />
-      </picture>
     </td>
   </tr>
 </table>

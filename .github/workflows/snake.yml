@@ -1,4 +1,4 @@
-name: Master Profile Generator
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -7,31 +7,24 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'README.md'
+
+concurrency:
+  group: deploy-output
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Generates the 3D Isometric Calendar
-      - name: Generate 3D Isometric Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: none
-
-      # 2. Generates the snake animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -42,16 +35,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Pushes everything to the "output" branch
-      - name: Move files to dist
-        run: |
-          mkdir -p dist
-          mv metrics.plugin.isocalendar.svg dist/ || true
-
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

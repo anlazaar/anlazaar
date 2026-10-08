@@ -1,100 +1,150 @@
 <div align="center">
 
-<!-- Breathtaking Tech Stream Header GIF -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" alt="Data Stream"/>
+<!-- DYNAMIC HEADER / BREATHTAKING BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=250&section=header&text=Anass%20Lazaar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Limitless%20Full%20Stack%20Architect&descAlignY=55&descSize=20" width="100%" style="border-radius: 10px;" alt="Banner"/>
 
 <br/><br/>
 
-<!-- Stable Hacker-Style Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Anass+Lazaar%22);;import+Java.Spring.Boot;;import+NextJS.Angular;;&lt;FullStack+%2F&gt;;&gt;+Initializing+creative_genius.sh..." alt="Typing effect" />
+<!-- HACKER TYPING SVG (API) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);;import+Java.Spring.Boot;;import+NextJS.Angular;;&gt;+Architecting+Scalable+Backends...;;&gt;+Crafting+Pixel-Perfect+UIs...;;%3CFullStack+%2F%3E+Creative+Genius" alt="Typing effect" />
 
+<br/>
+
+<!-- SLEEK SOCIAL BADGES -->
 <p align="center">
-  <b>🌍 Morocco 🇲🇦 | ✦ Limitless Full Stack Architect ✦</b>
+  <a href="https://aeneas-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F2FE&border=00F2FE" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/anlazaar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE&border=00F2FE" alt="LinkedIn"/></a>
+  <a href="mailto:anasslazaar9@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=00F2FE&border=00F2FE" alt="Email"/></a>
 </p>
 
-<a href="https://aeneas-portfolio.vercel.app"><img src="https://img.shields.io/badge/Deploy_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=161b22" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/anlazaar/"><img src="https://img.shields.io/badge/Init_Connection-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=161b22" alt="LinkedIn"/></a>
-<a href="mailto:anasslazaar9@gmail.com"><img src="https://img.shields.io/badge/Execute_Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00F0FF&labelColor=161b22" alt="Email"/></a>
+<!-- GITHUB TROPHIES API -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anlazaar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</a>
 
 <br/><br/>
 
 <!-- ========================================== -->
-<!-- FAKE MACOS TERMINAL WINDOW USING HTML HACKS -->
+<!-- THE IDE: ABOUT ME (Advanced HTML Table)    -->
 <!-- ========================================== -->
-<table width="85%" style="border-collapse: collapse; box-shadow: 0 0 20px rgba(0,240,255,0.2);">
-  <!-- Terminal Header -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 10px;">
+  <!-- Fake Mac OS Buttons -->
   <tr bgcolor="#161b22">
-    <td align="left" style="padding: 8px 15px; border-top-left-radius: 8px; border-top-right-radius: 8px;">
-      <!-- Fake Mac OS Buttons -->
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/mac-buttons.png" width="40" alt="mac buttons"/>
-      <b style="color: #8b949e; margin-left: 20px; font-family: monospace;">bash - root@anlazaar: ~</b>
+    <td align="left" style="padding: 10px 15px; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+      <span style="color: #ff5f56; font-size: 18px;">●</span> 
+      <span style="color: #ffbd2e; font-size: 18px;">●</span> 
+      <span style="color: #27c93f; font-size: 18px;">●</span>
+      <b style="color: #8b949e; margin-left: 15px; font-family: monospace;">Developer.java</b>
     </td>
   </tr>
-  <!-- Terminal Body -->
+  <!-- Code Body -->
   <tr bgcolor="#0d1117">
-    <td align="left" style="padding: 20px; font-family: monospace; color: #c9d1d9;">
-      <span style="color: #7ee787;">➜</span> <span style="color: #79c0ff;">~</span> <span style="color: #d2a8ff;">java</span> -jar anass_lazaar.jar --role="Full Stack Developer"<br/><br/>
-      <span style="color: #8b949e;">[INFO] Booting system...</span><br/>
-      <span style="color: #8b949e;">[INFO] Connecting to core frameworks:</span> <b style="color:#00F0FF;">Spring Boot</b> & <b style="color:#00F0FF;">Next.js / Angular</b><br/>
-      <span style="color: #8b949e;">[INFO] Mission loaded:</span> "Architect secure, scalable backends and craft breathtaking, high-performance web interfaces."<br/><br/>
-      <span style="color: #7ee787;">➜</span> <span style="color: #79c0ff;">~</span> <span style="color: #d2a8ff;">status</span> --current<br/>
-      Building amazing experiences and turning complex logic into elegant solutions. 🚀<span class="blinking-cursor">_</span>
+    <td align="left" style="padding: 20px; font-family: 'Fira Code', Consolas, monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
+      <span style="color: #ff7b72;">package</span> com.anlazaar.profile;<br/><br/>
+      <span style="color: #ff7b72;">import</span> org.springframework.boot.Awesomeness;<br/>
+      <span style="color: #ff7b72;">import</span> nextjs.frontend.Mastery;<br/><br/>
+      <span style="color: #ff7b72;">public class</span> <span style="color: #79c0ff;">AnassLazaar</span> <span style="color: #ff7b72;">implements</span> <span style="color: #e3b341;">SoftwareArchitect</span> {<br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">private final</span> <span style="color: #79c0ff;">String</span> location = <span style="color: #a5d6ff;">"Morocco 🇲🇦"</span>;<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">private final</span> <span style="color: #79c0ff;">String</span> mission = <span style="color: #a5d6ff;">"Build systems that handle immense complexity with zero friction."</span>;<br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #8b949e;">// Executing daily operations</span><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">public void</span> <span style="color: #d2a8ff;">deployMagic</span>() {<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend.<i>architectMicroservices</i>();<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend.<i>craftBreathtakingUIs</i>();<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<span style="color: #79c0ff;">out</span>.println(<span style="color: #a5d6ff;">"Turning coffee into elegant solutions 🚀"</span>);<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+      }
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ========================================== -->
-<!-- BENTO BOX LAYOUT FOR TECH STACK            -->
+<!-- BENTO GRID TECH ARSENAL (Using skillicons) -->
 <!-- ========================================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30"/> The Arsenal</h2>
+
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #1f2937; border-radius: 10px; padding: 20px;">
-      <img src="https://img.shields.io/badge/BACKEND_SYSTEMS-0D1117?style=for-the-badge&logo=databricks&logoColor=7000FF" /><br/><br/>
-      <i>Powering the logic and data flow.</i><br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,c&perline=5" /><br/><br/>
-      <p align="left" style="color: #8b949e; font-size: 13px;">
-        Building unshakeable core infrastructure. My specialty is <b>Java & Spring Boot</b>, designing microservices, RESTful APIs, and systems that handle immense complexity with zero friction.
-      </p>
+    <td width="48%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <h3 style="color: #00F2FE;">⚙️ Core Architecture</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,go,c,nodejs&perline=5" /><br/><br/>
+      <p style="color: #8b949e; font-size: 13px;">Microservices, REST APIs, and bulletproof backend infrastructure.</p>
     </td>
-    <td width="2%"></td> <!-- Spacer -->
-    <td width="50%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #1f2937; border-radius: 10px; padding: 20px;">
-      <img src="https://img.shields.io/badge/FRONTEND_DYNAMICS-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" /><br/><br/>
-      <i>Crafting the visual experience.</i><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,angular,react,ts,tailwind&perline=5" /><br/><br/>
-      <p align="left" style="color: #8b949e; font-size: 13px;">
-        APIs need beautiful faces. I specialize in <b>Next.js</b> for highly optimized SSR applications and <b>Angular</b> for heavy-duty enterprise dashboards. Pixel-perfect, fast, and responsive.
-      </p>
+    <td width="4%"></td> <!-- Spacer -->
+    <td width="48%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <h3 style="color: #4FACFE;">🎨 Client Dynamics</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&perline=5" /><br/><br/>
+      <p style="color: #8b949e; font-size: 13px;">Pixel-perfect, SSR-optimized, and lightning-fast web interfaces.</p>
     </td>
   </tr>
-  <tr><td height="10"></td></tr> <!-- Vertical Space -->
+  <tr><td height="15" colspan="3"></td></tr> <!-- Vertical Space -->
   <tr>
-    <td colspan="3" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #1f2937; border-radius: 10px; padding: 20px;">
-      <img src="https://img.shields.io/badge/INFRA_&_TOOLS-0D1117?style=for-the-badge&logo=docker&logoColor=ffffff" /><br/><br/>
+    <td colspan="3" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <h3 style="color: #7000FF;">🛠️ Infrastructure & Tooling</h3>
       <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,postman,rust&perline=10" />
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ========================================== -->
-<!-- DYNAMIC ACTIVITY GRAPH (Reliable Vercel App) -->
+<!-- GITHUB STATS API INTEGRATIONS              -->
 <!-- ========================================== -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" /> Dev Activity Matrix</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Real-Time Telemetry</h2>
 
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <!-- General Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=anlazaar&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anlazaar&theme=transparent&hide_border=true&background=0D1117&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</p>
+
+<!-- Activity Graph -->
 <a href="https://github.com/anlazaar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anlazaar&bg_color=0d1117&color=00F0FF&line=7000FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anlazaar&bg_color=0d1117&color=c9d1d9&line=00F2FE&point=4FACFE&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" width="100%" alt="Activity Graph" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+<!-- ========================================== -->
+<!-- THE SNAKE ANIMATION (Requires GitHub Action)-->
+<!-- ========================================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anlazaar&color=7000FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <!-- This image will load once you set up the script below -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+
+<!-- Profile Views -->
+<p align="center">
+  <a href="https://github.com/anlazaar">
+    <img src="https://komarev.com/ghpvc/?username=anlazaar&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
 </p>
 
 </div>

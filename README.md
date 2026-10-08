@@ -89,6 +89,32 @@
 
 <br/>
 
+<br/>
+
+<!-- ========================================== -->
+<!-- DYNAMIC PROJECT SHOWCASE (Repo API)        -->
+<!-- ========================================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Featured Engineering</h2>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <!-- Replace 'your-repo-name' with your actual best repo name -->
+      <a href="https://github.com/anlazaar/your-best-repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=your-best-repo&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Project 1" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Replace 'your-second-repo' with your actual second best repo name -->
+      <a href="https://github.com/anlazaar/your-second-repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=your-second-repo&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ========================================== -->
 <!-- GITHUB STATS API INTEGRATIONS              -->
 <!-- ========================================== -->
@@ -106,7 +132,12 @@
     </td>
   </tr>
 </table>
+<!-- WakaTime Weekly Coding Stats -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="30"/> Weekly Coding Metrics</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="WakaTime Stats" />
+</p>
 <br/>
 
 <!-- Streak Stats -->
@@ -137,6 +168,18 @@
 
 <br/>
 
+<br/>
+
+<!-- ========================================== -->
+<!-- 3D ISOMETRIC CALENDAR (GitHub Action)      -->
+<!-- ========================================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" width="30"/> Contribution City</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anlazaar/anlazaar/output/metrics.plugin.isocalendar.svg" alt="3D Isometric Calendar" width="100%">
+</p>
+
+<br/>
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 

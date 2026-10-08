@@ -8,12 +8,18 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       # 1. Generates the 3D Isometric Calendar
       - name: Generate 3D Isometric Calendar
         uses: lowlighter/metrics@latest
@@ -31,20 +37,19 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            metrics/github-contribution-grid-snake.svg
-            metrics/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 3. Pushes everything to the "output" branch
-      - name: Move files and Push to output branch
+      - name: Move files to dist
         run: |
           mkdir -p dist
           mv metrics.plugin.isocalendar.svg dist/ || true
-          mv metrics/* dist/ || true
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

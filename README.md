@@ -44,13 +44,13 @@
       <span style="color: #ff7b72;">import</span> org.springframework.boot.Awesomeness;<br/>
       <span style="color: #ff7b72;">import</span> nextjs.frontend.Mastery;<br/><br/>
       <span style="color: #ff7b72;">public class</span> <span style="color: #79c0ff;">AnassLazaar</span> <span style="color: #ff7b72;">implements</span> <span style="color: #e3b341;">SoftwareArchitect</span> {<br/><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">private final</span> <span style="color: #79c0ff;">String</span> location = <span style="color: #a5d6ff;">"Morocco 🇲🇦"</span>;<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">private final</span> <span style="color: #79c0ff;">String</span> location = <span style="color: #a5d6ff;">"Morocco"</span>;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">private final</span> <span style="color: #79c0ff;">String</span> mission = <span style="color: #a5d6ff;">"Build systems that handle immense complexity with zero friction."</span>;<br/><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #8b949e;">// Executing daily operations</span><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">public void</span> <span style="color: #d2a8ff;">deployMagic</span>() {<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend.<i>architectMicroservices</i>();<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend.<i>craftBreathtakingUIs</i>();<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<span style="color: #79c0ff;">out</span>.println(<span style="color: #a5d6ff;">"Turning coffee into elegant solutions 🚀"</span>);<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<span style="color: #79c0ff;">out</span>.println(<span style="color: #a5d6ff;">"Turning coffee into elegant solutions"</span>);<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;}<br/>
       }
     </td>
@@ -62,18 +62,18 @@
 <!-- ========================================== -->
 <!-- BENTO GRID TECH ARSENAL (Using skillicons) -->
 <!-- ========================================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30"/> The Arsenal</h2>
+<h2 align="center">The Arsenal</h2>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="48%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <h3 style="color: #00F2FE;">⚙️ Core Architecture</h3>
+      <h3 style="color: #00F2FE;">Core Architecture</h3>
       <img src="https://skillicons.dev/icons?i=java,spring,go,c,nodejs&perline=5" /><br/><br/>
       <p style="color: #8b949e; font-size: 13px;">Microservices, REST APIs, and bulletproof backend infrastructure.</p>
     </td>
     <td width="4%"></td> <!-- Spacer -->
     <td width="48%" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <h3 style="color: #4FACFE;">🎨 Client Dynamics</h3>
+      <h3 style="color: #4FACFE;">Client Dynamics</h3>
       <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&perline=5" /><br/><br/>
       <p style="color: #8b949e; font-size: 13px;">Pixel-perfect, SSR-optimized, and lightning-fast web interfaces.</p>
     </td>
@@ -81,7 +81,7 @@
   <tr><td height="15" colspan="3"></td></tr> <!-- Vertical Space -->
   <tr>
     <td colspan="3" align="center" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <h3 style="color: #7000FF;">🛠️ Infrastructure & Tooling</h3>
+      <h3 style="color: #7000FF;">Infrastructure & Tooling</h3>
       <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,postman,rust&perline=10" />
     </td>
   </tr>
@@ -94,20 +94,18 @@
 <!-- ========================================== -->
 <!-- DYNAMIC PROJECT SHOWCASE (Repo API)        -->
 <!-- ========================================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Featured Engineering</h2>
+<h2 align="center">Featured Engineering</h2>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center">
-      <!-- Replace 'your-repo-name' with your actual best repo name -->
-      <a href="https://github.com/anlazaar/your-best-repo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=your-best-repo&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Project 1" />
+      <a href="https://github.com/anlazaar/marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=marketplace&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Marketplace" />
       </a>
     </td>
     <td width="50%" align="center">
-      <!-- Replace 'your-second-repo' with your actual second best repo name -->
-      <a href="https://github.com/anlazaar/your-second-repo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=your-second-repo&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Project 2" />
+      <a href="https://github.com/anlazaar/DEV.WAREHOUSE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlazaar&repo=DEV.WAREHOUSE&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=c9d1d9" alt="Dev.Warehouse" />
       </a>
     </td>
   </tr>
@@ -118,7 +116,7 @@
 <!-- ========================================== -->
 <!-- GITHUB STATS API INTEGRATIONS              -->
 <!-- ========================================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Real-Time Telemetry</h2>
+<h2 align="center">Real-Time Telemetry</h2>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -133,7 +131,7 @@
   </tr>
 </table>
 <!-- WakaTime Weekly Coding Stats -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="30"/> Weekly Coding Metrics</h2>
+<h2 align="center">Weekly Coding Metrics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anlazaar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="WakaTime Stats" />
@@ -142,7 +140,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anlazaar&theme=transparent&hide_border=true&background=0D1117&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anlazaar&theme=transparent&hide_border=true&background=0D1117&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <!-- Activity Graph -->
@@ -155,14 +153,14 @@
 <!-- ========================================== -->
 <!-- THE SNAKE ANIMATION (Requires GitHub Action)-->
 <!-- ========================================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> Contribution Snake</h2>
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-  <!-- This image will load once you set up the script below -->
+  <!-- This image will load once the action runs to push SVG files to the 'output' branch -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anlazaar/anlazaar/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/anlazaar/anlazaar@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/anlazaar/anlazaar@output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/anlazaar/anlazaar@output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -173,10 +171,10 @@
 <!-- ========================================== -->
 <!-- 3D ISOMETRIC CALENDAR (GitHub Action)      -->
 <!-- ========================================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" width="30"/> Contribution City</h2>
+<h2 align="center">Contribution City</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anlazaar/anlazaar/output/metrics.plugin.isocalendar.svg" alt="3D Isometric Calendar" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/anlazaar/anlazaar@output/metrics.plugin.isocalendar.svg" alt="3D Isometric Calendar" width="100%">
 </p>
 
 <br/>

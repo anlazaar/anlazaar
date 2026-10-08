@@ -1,37 +1,49 @@
-name: Generate Contribution Snake
+name: Master Profile Generator
 
 on:
-  # Run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Allows you to run this job manually from the Actions tab
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
-  # Run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # Generates the snake animation from your GitHub contributions
+      # 1. Generates the 3D Isometric Calendar
+      - name: Generate 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+
+      # 2. Generates the snake animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            metrics/github-contribution-grid-snake.svg
+            metrics/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Pushes the generated SVGs to the "output" branch
-      - name: Push to output branch
+
+      # 3. Pushes everything to the "output" branch
+      - name: Move files and Push to output branch
+        run: |
+          mkdir -p dist
+          mv metrics.plugin.isocalendar.svg dist/ || true
+          mv metrics/* dist/ || true
+
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
